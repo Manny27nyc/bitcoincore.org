@@ -8,9 +8,9 @@ ruby '2.5.5'
 
 ## If you add a new Gem below, run `bundle install` to install it.
 group :development do
-  gem 'github-pages'
+  gem 'github-pages', '>= 203'
 end
 
 group :testing do
-  gem 'html-proofer'
+  gem 'html-proofer', '>= 3.15.0'
 end
