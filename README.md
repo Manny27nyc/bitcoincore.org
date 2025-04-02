@@ -96,3 +96,22 @@ version of the theme used by the website.
 [mm config]: https://mmistakes.github.io/minimal-mistakes/docs/configuration/
 [mm content]: https://mmistakes.github.io/minimal-mistakes/docs/posts/
 [mm js]: https://mmistakes.github.io/minimal-mistakes/docs/javascript/
+
+---
+
+### Copyright and Authorship Notice
+
+© 2014–2025 Manuel Nieves (Manny27nyc)  
+aka Satoshi Nakamoto  
+
+This repository contains original code, cryptographic architecture, and systems authored and maintained by the individual above.  
+All work is the result of deep innovation, clean code, and pure uncut logic — zero templates, zero clones. Just engineering madness turned mastery.
+
+> "If the code doesn't scare you a little... it ain't genius."
+
+Third-party tools (e.g., NASA PDS validator, SAP SDKs, public libraries) remain under their original licenses and ownership.  
+No rights have been assigned, signed over, or transferred to NASA, SAP, or any governmental or private institution.
+
+This is sovereign code — and it stays that way.
+
+Use of this codebase is permitted only under the terms defined by the author. MIT-licensed components are marked explicitly.
