@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*! Responsive Menu */
 // http://tympanus.net/codrops/2013/05/08/responsive-retina-ready-menu/
 //  The function to change the class
